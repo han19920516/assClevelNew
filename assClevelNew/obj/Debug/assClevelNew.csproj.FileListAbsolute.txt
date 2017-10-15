@@ -1,0 +1,165 @@
+E:\5032 web design\assClevelNew\assClevelNew\bin\ApplicationInsights.config
+E:\5032 web design\assClevelNew\assClevelNew\bin\roslyn\csc.exe
+E:\5032 web design\assClevelNew\assClevelNew\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\5032 web design\assClevelNew\assClevelNew\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\5032 web design\assClevelNew\assClevelNew\bin\roslyn\System.Collections.Immutable.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\roslyn\System.Reflection.Metadata.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\roslyn\vbc.exe
+E:\5032 web design\assClevelNew\assClevelNew\bin\roslyn\VBCSCompiler.exe
+E:\5032 web design\assClevelNew\assClevelNew\bin\roslyn\VBCSCompiler.exe.config
+E:\5032 web design\assClevelNew\assClevelNew\bin\assClevelNew.dll.config
+E:\5032 web design\assClevelNew\assClevelNew\bin\assClevelNew.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\assClevelNew.pdb
+E:\5032 web design\assClevelNew\assClevelNew\bin\Antlr3.Runtime.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\EntityFramework.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\EntityFramework.SqlServer.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.AI.Agent.Intercept.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.AI.DependencyCollector.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.AI.Web.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.AI.WindowsServer.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.ApplicationInsights.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.AspNet.Identity.Core.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.Owin.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.Cookies.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.Facebook.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.Google.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.OAuth.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.Twitter.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.Web.Infrastructure.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Newtonsoft.Json.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Owin.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\System.Web.Helpers.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\System.Web.Mvc.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\System.Web.Optimization.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\System.Web.Razor.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\System.Web.WebPages.Deployment.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\System.Web.WebPages.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\System.Web.WebPages.Razor.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\WebGrease.dll
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.AI.DependencyCollector.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.AI.Web.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.AI.WindowsServer.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.ApplicationInsights.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\System.Web.Helpers.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\System.Web.Mvc.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\System.Web.Optimization.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\System.Web.Razor.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\System.Web.WebPages.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\System.Web.WebPages.Deployment.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\System.Web.WebPages.Razor.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\Antlr3.Runtime.pdb
+E:\5032 web design\assClevelNew\assClevelNew\bin\Newtonsoft.Json.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\EntityFramework.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\EntityFramework.SqlServer.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.AspNet.Identity.Core.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.Owin.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.Facebook.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.Cookies.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.OAuth.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.Google.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.Twitter.xml
+E:\5032 web design\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\5032 web design\assClevelNew\assClevelNew\obj\Debug\assClevelNew.dll
+E:\5032 web design\assClevelNew\assClevelNew\obj\Debug\assClevelNew.pdb
+E:\5032 web design\assClevelNew\assClevelNew\obj\Debug\assClevelNew.csprojResolveAssemblyReference.cache
+F:\assClevelNew\assClevelNew\bin\ApplicationInsights.config
+F:\assClevelNew\assClevelNew\bin\roslyn\csc.exe
+F:\assClevelNew\assClevelNew\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\assClevelNew\assClevelNew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\assClevelNew\assClevelNew\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\assClevelNew\assClevelNew\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\assClevelNew\assClevelNew\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\assClevelNew\assClevelNew\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\assClevelNew\assClevelNew\bin\roslyn\System.Collections.Immutable.dll
+F:\assClevelNew\assClevelNew\bin\roslyn\System.Reflection.Metadata.dll
+F:\assClevelNew\assClevelNew\bin\roslyn\vbc.exe
+F:\assClevelNew\assClevelNew\bin\roslyn\VBCSCompiler.exe
+F:\assClevelNew\assClevelNew\bin\roslyn\VBCSCompiler.exe.config
+F:\assClevelNew\assClevelNew\bin\assClevelNew.dll.config
+F:\assClevelNew\assClevelNew\bin\assClevelNew.dll
+F:\assClevelNew\assClevelNew\bin\assClevelNew.pdb
+F:\assClevelNew\assClevelNew\bin\Antlr3.Runtime.dll
+F:\assClevelNew\assClevelNew\bin\EntityFramework.dll
+F:\assClevelNew\assClevelNew\bin\EntityFramework.SqlServer.dll
+F:\assClevelNew\assClevelNew\bin\Microsoft.AI.Agent.Intercept.dll
+F:\assClevelNew\assClevelNew\bin\Microsoft.AI.DependencyCollector.dll
+F:\assClevelNew\assClevelNew\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\assClevelNew\assClevelNew\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\assClevelNew\assClevelNew\bin\Microsoft.AI.Web.dll
+F:\assClevelNew\assClevelNew\bin\Microsoft.AI.WindowsServer.dll
+F:\assClevelNew\assClevelNew\bin\Microsoft.ApplicationInsights.dll
+F:\assClevelNew\assClevelNew\bin\Microsoft.AspNet.Identity.Core.dll
+F:\assClevelNew\assClevelNew\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\assClevelNew\assClevelNew\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\assClevelNew\assClevelNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\assClevelNew\assClevelNew\bin\Microsoft.Owin.dll
+F:\assClevelNew\assClevelNew\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.Cookies.dll
+F:\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.dll
+F:\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.Facebook.dll
+F:\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.Google.dll
+F:\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.OAuth.dll
+F:\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.Twitter.dll
+F:\assClevelNew\assClevelNew\bin\Microsoft.Web.Infrastructure.dll
+F:\assClevelNew\assClevelNew\bin\Newtonsoft.Json.dll
+F:\assClevelNew\assClevelNew\bin\Owin.dll
+F:\assClevelNew\assClevelNew\bin\System.Web.Helpers.dll
+F:\assClevelNew\assClevelNew\bin\System.Web.Mvc.dll
+F:\assClevelNew\assClevelNew\bin\System.Web.Optimization.dll
+F:\assClevelNew\assClevelNew\bin\System.Web.Razor.dll
+F:\assClevelNew\assClevelNew\bin\System.Web.WebPages.Deployment.dll
+F:\assClevelNew\assClevelNew\bin\System.Web.WebPages.dll
+F:\assClevelNew\assClevelNew\bin\System.Web.WebPages.Razor.dll
+F:\assClevelNew\assClevelNew\bin\WebGrease.dll
+F:\assClevelNew\assClevelNew\bin\Microsoft.AI.DependencyCollector.xml
+F:\assClevelNew\assClevelNew\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\assClevelNew\assClevelNew\bin\Microsoft.AI.Web.xml
+F:\assClevelNew\assClevelNew\bin\Microsoft.AI.WindowsServer.xml
+F:\assClevelNew\assClevelNew\bin\Microsoft.ApplicationInsights.xml
+F:\assClevelNew\assClevelNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\assClevelNew\assClevelNew\bin\System.Web.Helpers.xml
+F:\assClevelNew\assClevelNew\bin\System.Web.Mvc.xml
+F:\assClevelNew\assClevelNew\bin\System.Web.Optimization.xml
+F:\assClevelNew\assClevelNew\bin\System.Web.Razor.xml
+F:\assClevelNew\assClevelNew\bin\System.Web.WebPages.xml
+F:\assClevelNew\assClevelNew\bin\System.Web.WebPages.Deployment.xml
+F:\assClevelNew\assClevelNew\bin\System.Web.WebPages.Razor.xml
+F:\assClevelNew\assClevelNew\bin\Antlr3.Runtime.pdb
+F:\assClevelNew\assClevelNew\bin\Newtonsoft.Json.xml
+F:\assClevelNew\assClevelNew\bin\EntityFramework.xml
+F:\assClevelNew\assClevelNew\bin\EntityFramework.SqlServer.xml
+F:\assClevelNew\assClevelNew\bin\Microsoft.AspNet.Identity.Core.xml
+F:\assClevelNew\assClevelNew\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\assClevelNew\assClevelNew\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\assClevelNew\assClevelNew\bin\Microsoft.Owin.xml
+F:\assClevelNew\assClevelNew\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.xml
+F:\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.Facebook.xml
+F:\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.Cookies.xml
+F:\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.OAuth.xml
+F:\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.Google.xml
+F:\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.Twitter.xml
+F:\assClevelNew\assClevelNew\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\assClevelNew\assClevelNew\obj\Debug\assClevelNew.csprojResolveAssemblyReference.cache
+F:\assClevelNew\assClevelNew\obj\Debug\assClevelNew.csproj.CoreCompileInputs.cache
+F:\assClevelNew\assClevelNew\obj\Debug\assClevelNew.dll
+F:\assClevelNew\assClevelNew\obj\Debug\assClevelNew.pdb
